@@ -1,0 +1,38 @@
+* text=auto
+
+*.bpmn          text
+*.css           text
+*.csv           text eol=crlf
+*.ftl           text
+*.groovy        text
+*.htm           text
+*.html          text
+*.java          text
+*.jrxml         text
+*.js            text
+*.json          text
+*.jsp           text
+*.less          text
+*.md            text
+*.MF            text
+*.properties    text
+*.py            text
+*.rptdesign     text
+*.sql           text
+*.svg           text
+*.txt           text
+*.xml           text
+*.yaml          text
+*.yml           text
+
+*.bin           binary
+*.gif           binary
+*.ico           binary
+*.jar           binary
+*.jpg           binary
+*.jpeg          binary
+*.png           binary
+*.swf           binary
+*.xls           binary
+*.xlsx          binary
+*.zip           binary

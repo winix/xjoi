@@ -1,0 +1,8 @@
+{
+  "name": "xjoi",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.19.2"
+  }
+}
